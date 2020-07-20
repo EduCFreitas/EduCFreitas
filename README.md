@@ -32,6 +32,10 @@
 [![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff&link=https://github.com/EduCFreitas/)](https://github.com/EduCFreitas/)
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/EduCFreitas/)](https://github.com/EduCFreitas/)
 
+# Outros dados:
+
+![here is my stats](https://github-readme-stats.vercel.app/api?username=EduCFreitas&show_icons=true&hide_border=true)
+
 
 
 <!--
