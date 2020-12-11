@@ -7,6 +7,7 @@
 # Olá a todos! 👋
 
 - Sou José Eduardo Candido de Freitas, desenvolvedor web fullstack júnior, formado na terceira turma do bootcamp da Generation Brasil.
+- Atuo como desenvolvedor júnior na B3.
 - Também bacharel em engenharia elétrica.
 
 # Alguns conhecimentos:
