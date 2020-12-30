@@ -1,7 +1,7 @@
 # José Eduardo Candido de Freitas :man_technologist:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EduCFreitas)](https://github.com/EduCFreitas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-eduardo-candido-de-freitas/)](https://www.linkedin.com/in/jose-eduardo-candido-de-freitas/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511957950519&text=Olá!)](https://api.whatsapp.com/send?phone=5511957950519&text=Olá!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511993342659&text=Olá!)](https://api.whatsapp.com/send?phone=5511957950519&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeduardocfreitas@gmail.com)](mailto:jeduardocfreitas@gmail.com)
 
 # Olá a todos! 👋
